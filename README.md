@@ -1,6 +1,12 @@
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
+## Api Test
+
+This is a simple CRA app made with ChakraUI that displays images from Nasa's APOD api.
+
+You can either select a single date, or get a number of random images.
+
 ## Available Scripts
 
 In the project directory, you can run:
